@@ -5,6 +5,7 @@ public class ProjectManager {
         System.out.println("Welcome to Project Manager!");
 // Exemple de code dupliqu
 
+
         String projectName = "Sample Project";
         System.out.println("Project Name: " + projectName);
         String duplicateProjectName = "Sample Project";
