@@ -3,8 +3,7 @@ package ma.sonar;
 public class ProjectManager {
     public static void main(String[] args) {
         System.out.println("Welcome to Project Manager!");
-// Exemple de code dupliqué
-
+// Exemple de code dupliqu
 
         String projectName = "Sample Project";
         System.out.println("Project Name: " + projectName);
